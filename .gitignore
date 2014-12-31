@@ -1,0 +1,8 @@
+/nbproject/
+.DS_Store
+/catalog.xml
+/.vagrant*
+/.idea
+/composer.phar
+/vendor/
+phpunit.xml

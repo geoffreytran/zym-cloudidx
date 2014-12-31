@@ -1,0 +1,17 @@
+{
+    "name": "geoffreytran/zym-cloudidx",
+    "description": "PHP API for the iHomeFinder MLS IDX Data Feed CloudIDX (http://www.ihomefinder.com/products/data-services/)",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-0": {
+            "Zym\\CloudIdx\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "Zym\\CloudIdx\\": "test/"
+        }
+    }
+}
